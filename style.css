@@ -1,0 +1,19 @@
+.center-text {
+    text-align: center;
+}
+
+.right-align-text {
+    text-align: right;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.img-one {
+    margin-left: 160px;
+}
+
+.img-two {
+    margin-left: 280px;
+}
